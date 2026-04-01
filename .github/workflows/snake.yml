@@ -9,20 +9,22 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake animation
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: abhay6205
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push snake animation to branch
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Deploy snake to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: output
-          folder: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
