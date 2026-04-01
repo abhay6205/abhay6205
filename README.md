@@ -53,9 +53,9 @@ AI Developer | Machine Learning | Full Stack Developer
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay6205&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhay6205&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -65,9 +65,9 @@ AI Developer | Machine Learning | Full Stack Developer
 
 ---
 
-# 📈 Top Languages
+## 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay6205&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhay6205&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
