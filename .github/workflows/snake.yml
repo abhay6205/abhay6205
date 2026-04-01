@@ -1,4 +1,4 @@
-name: generate snake
+name: Generate Snake
 
 on:
   schedule:
@@ -10,12 +10,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: platane/snk@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: abhay6205
           outputs: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push snake
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
