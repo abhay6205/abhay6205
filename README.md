@@ -19,6 +19,14 @@ AI Developer | Machine Learning | Full Stack Developer
 
 ---
 
+## 📊 GitHub Overview
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhay6205&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay6205&theme=github_dark)
+
+---
+
 # 🚀 Projects
 
 ### 📊 Real-Time Process Monitoring Dashboard
@@ -62,6 +70,7 @@ AI Developer | Machine Learning | Full Stack Developer
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/abhay6205/abhay6205/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 # 🌐 Connect With Me
