@@ -27,7 +27,7 @@ AI Developer | Machine Learning | Full Stack Developer
 
 ## 📈 Most Used Languages
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhay6205&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhay6205&theme=github_dark)
 
 ---
 
