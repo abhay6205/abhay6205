@@ -23,8 +23,6 @@ AI Developer | Machine Learning | Full Stack Developer
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhay6205&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay6205&theme=github_dark)
-
 ---
 
 # 🚀 Projects
